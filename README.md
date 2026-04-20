@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Alan</h1>
 <h3 align="center">Developer | Building software, systems, and real world projects.</h3>
 
-- 🔭 I’m currently working on a **real time web application with messaging and user systems in php.**
+- 🔭 I’m currently working on **projects to build up my portfolio.**
 
 - 🌱 I’m currently learning & focusing more on **backend development**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
